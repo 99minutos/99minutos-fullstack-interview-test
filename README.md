@@ -3,7 +3,7 @@
 Interview test for fullstack Software Engineers
 
 ## Welcome!
-If you’re reading this, it means we’re interested in working with you in 99minutos.com and solving amazing and difficult problems in shipping for online shopping tech in Mexico.
+If you’re reading this, it means we’re interested in working with you in 99minutos.com and solving amazing and difficult problems in shipping for online shopping tech in Latam.
 
 This README provides the instructions to a small, self-contained test for a FullStack Software Engineer position.
 
